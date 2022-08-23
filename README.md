@@ -2,4 +2,4 @@
 
 **The** notepad made with Qt.
 
-**Le** bloc-note sans nom créé avec Qt.
+**Le** bloc-notes sans nom créé avec Qt.
